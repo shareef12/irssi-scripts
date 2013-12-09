@@ -11,7 +11,7 @@ $VERSION = '0.1';
     authors => 'Christian Sharpsten',
     contact => 'shar33f12@gmail.com',
     name => 'titleBot',
-    description => 'Irssi bot that compiles and runs c code',
+    description => 'Irssi script that post titles for links posted',
 );
 @servList = (
     'beitshlomo',
